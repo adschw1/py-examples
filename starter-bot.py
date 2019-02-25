@@ -3,7 +3,7 @@ import asyncio
 from discord.ext.commands import Bot
 
 BOT_PREFIX = ('!', '?')
-TOKEN = 'NDI4MDE4MDA4NTkwNjQ3Mjk4.DZwnnw.7p9Ky69lgnhqpFg_bEUTAm1N7Pw'
+TOKEN = 'token goes here'
 bot = Bot(command_prefix=BOT_PREFIX)
 
 # On user message example.
